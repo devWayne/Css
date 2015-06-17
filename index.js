@@ -57,4 +57,6 @@ function setCssObj(el, obj) {
     }
 }
 
-typeof module != 'undefined' ? module.exports = Css : this[Css] = Css;
+module.exports = {
+    Css: Css
+}

@@ -1,6 +1,6 @@
 {
   "name": "cl-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "css handler",
   "main": "index.js",
   "scripts": {

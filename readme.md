@@ -5,6 +5,8 @@ Css [![Build Status](https://travis-ci.org/devWayne/Css.svg?branch=master)](http
 ##Usage
 
 ```
+var Css = require('cl-css').Css;
+
 //setter
 Css(Element,'width','200px');
 Css(Element,{width:'200px',height:'200px'})
